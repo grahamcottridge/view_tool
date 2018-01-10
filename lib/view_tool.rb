@@ -1,2 +1,2 @@
 require "view_tool/version"
-require "view_tool/version/renderer"
+require "view_tool/renderer"
