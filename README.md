@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+ViewTool::Renderer.copyright 'Graham Cottridge', 'All rights reserved'
+```
 
 ## Development
 
